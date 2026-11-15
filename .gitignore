@@ -1,10 +1,7 @@
-# Dữ liệu và kết quả sinh ra — không đưa lên git (xem README)
+# Dữ liệu và kết quả sinh ra: không đưa lên git (xem README)
 data/*
 !data/README.md
-outputs/*
-!outputs/demodiffusion/
-outputs/demodiffusion/*
-!outputs/demodiffusion/summary.md
+outputs/
 assets_usd/
 __pycache__/
 *.pyc
