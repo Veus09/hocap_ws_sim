@@ -1,0 +1,13 @@
+# Dữ liệu và kết quả sinh ra — không đưa lên git (xem README)
+data/*
+!data/README.md
+outputs/*
+!outputs/demodiffusion/
+outputs/demodiffusion/*
+!outputs/demodiffusion/summary.md
+assets_usd/
+__pycache__/
+*.pyc
+.claude/
+.vscode/
+Hocap_tasks.zip
